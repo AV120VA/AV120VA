@@ -1,4 +1,5 @@
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AV120VA&theme=github_dark
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AV120VA&layout=compact)
+
 
 
 <!--
