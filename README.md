@@ -20,3 +20,5 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![pyenv](https://img.shields.io/badge/pyenv-3776AB?style=flat&logo=python&logoColor=white)
 ![Pipenv](https://img.shields.io/badge/Pipenv-FFD43B?style=flat&logo=python&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
