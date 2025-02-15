@@ -1,4 +1,4 @@
-[![AV120VA's GitHub stats](https://github-readme-stats.vercel.app/api?username=AV120Va)](https://github.com/AV120VA/github-readme-stats)
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={AV120VA}&theme={tokyonight}
 
 <!--
 **AV120VA/AV120VA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
