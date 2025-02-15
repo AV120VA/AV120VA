@@ -1,4 +1,5 @@
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={AV120VA}&theme={github_dark}&exclude={exclude}
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AV120VA&theme=github_dark
+
 
 <!--
 **AV120VA/AV120VA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
