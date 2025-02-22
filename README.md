@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Noteworthy!
+- 🔭 I’m currently working on TrainerBase!
 - 🌱 I’m currently learning Full Stack Development @ App Academy 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
