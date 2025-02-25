@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on TrainerBase!
-- 🌱 I’m currently learning Full Stack Development @ App Academy 
+- 🌱 I’m currently learning Full Stack Development @ App Academy!
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
