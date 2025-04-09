@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=29903B&width=500&lines=Hello+there!;I'm+Aaron!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+![stats](https://github-readme-stats.vercel.app/api?username=AV120VA&show_icons=true&theme=tokyonight)
+
 - 🔭 I’m currently working on TrainerBase!
 - 🌱 I’m currently learning Full Stack Development @ App Academy
   
