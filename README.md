@@ -3,7 +3,6 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=AV120VA&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working on TrainerBase!
-- 🌱 I’m currently learning Full Stack Development @ App Academy
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
